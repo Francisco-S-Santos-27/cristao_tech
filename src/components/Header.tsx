@@ -50,8 +50,8 @@ const Header = () => {
                 key={item.path}
                 to={item.path}
                 end={item.path === "/"}
-                className="text-sm font-medium text-foreground/70 transition-colors hover:text-primary"
-                activeClassName="text-primary font-semibold"
+                className="relative text-sm font-medium text-foreground/70 transition-colors hover:text-primary after:content-[''] after:absolute after:bottom-[-8px] after:left-0 after:w-0 after:h-0.5 after:bg-primary after:transition-all after:duration-300"
+                activeClassName="text-primary font-semibold after:w-full"
               >
                 {item.name}
               </NavLink>
@@ -89,8 +89,8 @@ const Header = () => {
                   key={item.path}
                   to={item.path}
                   end={item.path === "/"}
-                  className="px-4 py-2 text-sm font-medium text-foreground/70 rounded-md transition-colors hover:bg-muted hover:text-primary"
-                  activeClassName="bg-muted text-primary font-semibold"
+                  className="px-4 py-2 text-sm font-medium text-foreground/70 rounded-md transition-colors hover:bg-muted hover:text-primary border-l-2 border-transparent"
+                  activeClassName="bg-primary/10 text-primary font-semibold border-l-2 border-primary"
                   onClick={() => setIsMenuOpen(false)}
                 >
                   {item.name}
