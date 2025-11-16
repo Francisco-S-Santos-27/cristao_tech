@@ -11,6 +11,7 @@ import Noticias from "./pages/Noticias";
 import Tecnologia from "./pages/Tecnologia";
 import Sobre from "./pages/Sobre";
 import Contato from "./pages/Contato";
+import AjudeNos from "./pages/AjudeNos";
 import NotFound from "./pages/NotFound";
 
 const queryClient = new QueryClient();
@@ -30,6 +31,7 @@ const App = () => (
             <Route path="/tecnologia" element={<Tecnologia />} />
             <Route path="/sobre" element={<Sobre />} />
             <Route path="/contato" element={<Contato />} />
+            <Route path="/ajude-nos" element={<AjudeNos />} />
             <Route path="*" element={<NotFound />} />
           </Routes>
         </Layout>

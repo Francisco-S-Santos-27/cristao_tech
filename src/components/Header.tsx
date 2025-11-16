@@ -1,10 +1,27 @@
 import { NavLink } from "@/components/NavLink";
-import { Menu, X } from "lucide-react";
-import { useState } from "react";
+import { Menu, X, Moon, Sun } from "lucide-react";
+import { useState, useEffect } from "react";
 import logo from "@/assets/logo.png";
+import { Button } from "@/components/ui/button";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
+  const [theme, setTheme] = useState<"light" | "dark">("light");
+
+  useEffect(() => {
+    const savedTheme = localStorage.getItem("theme") as "light" | "dark" | null;
+    const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    const initialTheme = savedTheme || systemTheme;
+    setTheme(initialTheme);
+    document.documentElement.classList.toggle("dark", initialTheme === "dark");
+  }, []);
+
+  const toggleTheme = () => {
+    const newTheme = theme === "light" ? "dark" : "light";
+    setTheme(newTheme);
+    localStorage.setItem("theme", newTheme);
+    document.documentElement.classList.toggle("dark", newTheme === "dark");
+  };
 
   const navItems = [
     { name: "Home", path: "/" },
@@ -14,6 +31,7 @@ const Header = () => {
     { name: "Tecnologia", path: "/tecnologia" },
     { name: "Sobre", path: "/sobre" },
     { name: "Contato", path: "/contato" },
+    { name: "Ajude-nos", path: "/ajude-nos" },
   ];
 
   return (
@@ -40,14 +58,26 @@ const Header = () => {
             ))}
           </nav>
 
-          {/* Mobile Menu Button */}
-          <button
-            className="md:hidden p-2 hover:bg-muted rounded-md transition-colors"
-            onClick={() => setIsMenuOpen(!isMenuOpen)}
-            aria-label="Toggle menu"
-          >
-            {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
-          </button>
+          {/* Theme Toggle & Mobile Menu */}
+          <div className="flex items-center gap-2">
+            <Button
+              variant="ghost"
+              size="icon"
+              onClick={toggleTheme}
+              aria-label="Toggle theme"
+              className="rounded-full"
+            >
+              {theme === "light" ? <Moon size={20} /> : <Sun size={20} />}
+            </Button>
+            
+            <button
+              className="md:hidden p-2 hover:bg-muted rounded-md transition-colors"
+              onClick={() => setIsMenuOpen(!isMenuOpen)}
+              aria-label="Toggle menu"
+            >
+              {isMenuOpen ? <X size={24} /> : <Menu size={24} />}
+            </button>
+          </div>
         </div>
 
         {/* Mobile Navigation */}
