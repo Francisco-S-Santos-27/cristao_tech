@@ -10,7 +10,10 @@ const Header = () => {
 
   useEffect(() => {
     const savedTheme = localStorage.getItem("theme") as "light" | "dark" | null;
-    const systemTheme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light";
+    const systemTheme = window.matchMedia("(prefers-color-scheme: dark)")
+      .matches
+      ? "dark"
+      : "light";
     const initialTheme = savedTheme || systemTheme;
     setTheme(initialTheme);
     document.documentElement.classList.toggle("dark", initialTheme === "dark");
@@ -40,7 +43,7 @@ const Header = () => {
         <div className="flex h-16 items-center justify-between">
           {/* Logo */}
           <NavLink to="/" className="flex items-center">
-            <img src={logo} alt="CristãoTech" className="h-10 w-auto" />
+            <img src={logo} alt="CristãoTech" className="h-20 w-20" />
           </NavLink>
 
           {/* Desktop Navigation */}
@@ -69,7 +72,7 @@ const Header = () => {
             >
               {theme === "light" ? <Moon size={20} /> : <Sun size={20} />}
             </Button>
-            
+
             <button
               className="md:hidden p-2 hover:bg-muted rounded-md transition-colors"
               onClick={() => setIsMenuOpen(!isMenuOpen)}
