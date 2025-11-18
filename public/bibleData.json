@@ -1,0 +1,1388 @@
+{
+  "version": "ARA",
+  "name": "Almeida Revisada e Atualizada",
+  "language": "pt-BR",
+  "lastUpdated": "2024-01-01",
+  "books": [
+    {
+      "id": "gn",
+      "name": "Gênesis",
+      "abbr": "Gn",
+      "testament": "Antigo Testamento",
+      "chapters": 50,
+      "totalVerses": 1533,
+      "verses": [
+        {
+          "id": "gn-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "No princípio criou Deus os céus e a terra."
+        },
+        {
+          "id": "gn-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "E a terra era sem forma e vazia; e havia trevas sobre a face do abismo; e o Espírito de Deus se movia sobre a face das águas."
+        },
+        {
+          "id": "gn-1-3",
+          "chapter": 1,
+          "verse": 3,
+          "text": "E disse Deus: Haja luz. E houve luz."
+        },
+        {
+          "id": "gn-1-4",
+          "chapter": 1,
+          "verse": 4,
+          "text": "E viu Deus que era boa a luz; e Deus separou a luz das trevas."
+        },
+        {
+          "id": "gn-1-5",
+          "chapter": 1,
+          "verse": 5,
+          "text": "E Deus chamou à luz Dia; e às trevas chamou Noite. E houve tarde e manhã, o primeiro dia."
+        }
+      ]
+    },
+    {
+      "id": "ex",
+      "name": "Êxodo",
+      "abbr": "Ex",
+      "testament": "Antigo Testamento",
+      "chapters": 40,
+      "totalVerses": 1213,
+      "verses": [
+        {
+          "id": "ex-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Estes são os nomes dos filhos de Israel, que entraram no Egito com Jacó, entrando cada um com sua família:"
+        },
+        {
+          "id": "ex-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Rúben, Simeão, Levi e Judá;"
+        },
+        {
+          "id": "ex-1-3",
+          "chapter": 1,
+          "verse": 3,
+          "text": "Issacar, Zebulom e Benjamim;"
+        },
+        {
+          "id": "ex-1-4",
+          "chapter": 1,
+          "verse": 4,
+          "text": "Dã, Naftali, Gade e Aser."
+        }
+      ]
+    },
+    {
+      "id": "lv",
+      "name": "Levítico",
+      "abbr": "Lv",
+      "testament": "Antigo Testamento",
+      "chapters": 27,
+      "totalVerses": 859,
+      "verses": [
+        {
+          "id": "lv-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "E o SENHOR chamou a Moisés, e falou com ele da tenda da congregação, dizendo:"
+        },
+        {
+          "id": "lv-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Fala aos filhos de Israel, e dize-lhes: Quando algum de vós apresentar oferta ao SENHOR, de gado vacum, ou de rebanho, apresentará a sua oferta."
+        }
+      ]
+    },
+    {
+      "id": "nm",
+      "name": "Números",
+      "abbr": "Nm",
+      "testament": "Antigo Testamento",
+      "chapters": 36,
+      "totalVerses": 1288,
+      "verses": [
+        {
+          "id": "nm-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "E o SENHOR falou a Moisés no deserto de Sinai, na tenda da congregação, no primeiro dia do mês segundo, no segundo ano da sua saída da terra do Egito, dizendo:"
+        },
+        {
+          "id": "nm-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Levantai o cômputo de toda a congregação dos filhos de Israel, segundo as suas famílias, segundo a casa de seus pais, com a contagem dos nomes, todos os homens."
+        }
+      ]
+    },
+    {
+      "id": "dt",
+      "name": "Deuteronômio",
+      "abbr": "Dt",
+      "testament": "Antigo Testamento",
+      "chapters": 34,
+      "totalVerses": 959,
+      "verses": [
+        {
+          "id": "dt-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Estas são as palavras que Moisés falou a todo o Israel, além do Jordão, no deserto, na Arabá, diante de Sufe, entre Parã, Tofél, Labã, Hazerote e Di-Zabe."
+        },
+        {
+          "id": "dt-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "(Onze dias de caminho desde Horeb até Cades-Barneia, pelo caminho da montanha de Seir.)"
+        }
+      ]
+    },
+    {
+      "id": "js",
+      "name": "Josué",
+      "abbr": "Js",
+      "testament": "Antigo Testamento",
+      "chapters": 24,
+      "totalVerses": 658,
+      "verses": [
+        {
+          "id": "js-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Depois da morte de Moisés, servo do SENHOR, disse o SENHOR a Josué, filho de Num, servidor de Moisés, dizendo:"
+        },
+        {
+          "id": "js-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Moisés, meu servo, é morto; levanta-te agora, passa este Jordão, tu e todo este povo, à terra que eu dou aos filhos de Israel."
+        }
+      ]
+    },
+    {
+      "id": "jz",
+      "name": "Juízes",
+      "abbr": "Jz",
+      "testament": "Antigo Testamento",
+      "chapters": 21,
+      "totalVerses": 618,
+      "verses": [
+        {
+          "id": "jz-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Depois da morte de Josué, perguntaram os filhos de Israel ao SENHOR, dizendo: Quem subirá primeiro por nós contra os cananeus, para lhes fazer guerra?"
+        },
+        {
+          "id": "jz-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "E disse o SENHOR: Judá subirá; eis que entreguei a terra em sua mão."
+        }
+      ]
+    },
+    {
+      "id": "rt",
+      "name": "Rute",
+      "abbr": "Rt",
+      "testament": "Antigo Testamento",
+      "chapters": 4,
+      "totalVerses": 85,
+      "verses": [
+        {
+          "id": "rt-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Nos dias em que os juízes julgavam, houve fome na terra. Então um homem de Belém de Judá foi habitar na terra de Moabe, ele, sua mulher, e seus dois filhos."
+        },
+        {
+          "id": "rt-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "E o nome daquele homem era Elimeleque, e o de sua mulher Noemi; e os nomes de seus dois filhos eram Malom e Quiliom, efrateus, de Belém de Judá. E chegaram à terra de Moabe, e ficaram lá."
+        }
+      ]
+    },
+    {
+      "id": "1sm",
+      "name": "1 Samuel",
+      "abbr": "1Sm",
+      "testament": "Antigo Testamento",
+      "chapters": 31,
+      "totalVerses": 810,
+      "verses": [
+        {
+          "id": "1sm-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Havia um homem de Ramataim de Zofim, da montanha de Efraim, chamado Elcana, filho de Jeroão, filho de Eliú, filho de Toá, filho de Zufe, efraimita."
+        },
+        {
+          "id": "1sm-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "E tinha duas mulheres; o nome de uma era Ana, e o nome da outra era Penina; e Penina tinha filhos, mas Ana não tinha filhos."
+        }
+      ]
+    },
+    {
+      "id": "2sm",
+      "name": "2 Samuel",
+      "abbr": "2Sm",
+      "testament": "Antigo Testamento",
+      "chapters": 24,
+      "totalVerses": 695,
+      "verses": [
+        {
+          "id": "2sm-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Depois da morte de Saul, tendo Davi voltado da derrota dos amalequitas, esteve Davi dois dias em Ziclague."
+        },
+        {
+          "id": "2sm-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "E aconteceu que no terceiro dia chegou um homem do acampamento de Saul, com as roupas rasgadas, e terra sobre a cabeça; e chegando a Davi, prostrou-se em terra e fez reverência."
+        }
+      ]
+    },
+    {
+      "id": "1rs",
+      "name": "1 Reis",
+      "abbr": "1Rs",
+      "testament": "Antigo Testamento",
+      "chapters": 22,
+      "totalVerses": 816,
+      "verses": [
+        {
+          "id": "1rs-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Havia um certo rei Davi, que era velho e adiantado em idade; e o cobriam de roupas, mas não se aquentava."
+        },
+        {
+          "id": "1rs-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Disseram-lhe, pois, seus servos: Busque-se para meu senhor o rei uma jovem virgem, que esteja na presença do rei, e o aqueça."
+        }
+      ]
+    },
+    {
+      "id": "2rs",
+      "name": "2 Reis",
+      "abbr": "2Rs",
+      "testament": "Antigo Testamento",
+      "chapters": 25,
+      "totalVerses": 719,
+      "verses": [
+        {
+          "id": "2rs-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Depois da morte de Acabe, Moabe se rebelou contra Israel."
+        },
+        {
+          "id": "2rs-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "E Acazias caiu pela grade de uma câmara alta em Samaria, e ficou enfermo. Então mandou mensageiros, dizendo-lhes: Ide, consultai a Baal-Zebube, deus de Ecrom, se sararei desta enfermidade."
+        }
+      ]
+    },
+    {
+      "id": "1cr",
+      "name": "1 Crônicas",
+      "abbr": "1Cr",
+      "testament": "Antigo Testamento",
+      "chapters": 29,
+      "totalVerses": 942,
+      "verses": [
+        {
+          "id": "1cr-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Adão, Set, Enos,"
+        },
+        {
+          "id": "1cr-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Cainã, Maalaleel, Jared,"
+        }
+      ]
+    },
+    {
+      "id": "2cr",
+      "name": "2 Crônicas",
+      "abbr": "2Cr",
+      "testament": "Antigo Testamento",
+      "chapters": 36,
+      "totalVerses": 822,
+      "verses": [
+        {
+          "id": "2cr-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Salomão, filho de Davi, se fortificou em seu reino, e o SENHOR seu Deus era com ele, e o engrandecia sobremodo."
+        },
+        {
+          "id": "2cr-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "E falou Salomão a todo o Israel, aos capitães de milhares e de centenas, e aos juízes, e a todos os príncipes de todo o Israel, cabeças das famílias paternas."
+        }
+      ]
+    },
+    {
+      "id": "ed",
+      "name": "Esdras",
+      "abbr": "Ed",
+      "testament": "Antigo Testamento",
+      "chapters": 10,
+      "totalVerses": 280,
+      "verses": [
+        {
+          "id": "ed-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "No primeiro ano de Ciro, rei da Pérsia, para que se cumprisse a palavra do SENHOR pela boca de Jeremias, o SENHOR despertou o espírito de Ciro, rei da Pérsia, e fez passar uma proclamação por todo o seu reino, e também por escrito, dizendo:"
+        },
+        {
+          "id": "ed-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Assim diz Ciro, rei da Pérsia: O SENHOR, Deus dos céus, me deu todos os reinos da terra; e me encarregou de lhe edificar uma casa em Jerusalém, que é em Judá."
+        }
+      ]
+    },
+    {
+      "id": "ne",
+      "name": "Neemias",
+      "abbr": "Ne",
+      "testament": "Antigo Testamento",
+      "chapters": 13,
+      "totalVerses": 406,
+      "verses": [
+        {
+          "id": "ne-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palavras de Neemias, filho de Hacalias. Aconteceu no mês de Quisleu, no vigésimo ano, estando eu em Susã, a capital,"
+        },
+        {
+          "id": "ne-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Que veio um de meus irmãos, Hanani, ele e alguns homens de Judá; e lhes perguntei pelos judeus que escaparam, e que ficaram da cautividade."
+        }
+      ]
+    },
+    {
+      "id": "et",
+      "name": "Ester",
+      "abbr": "Et",
+      "testament": "Antigo Testamento",
+      "chapters": 10,
+      "totalVerses": 167,
+      "verses": [
+        {
+          "id": "et-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Aconteceu nos dias de Assuero (este é o Assuero que reinou desde a Índia até à Etiópia, sobre cento e vinte e sete províncias)"
+        },
+        {
+          "id": "et-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Que naqueles dias, estando o rei Assuero assentado no trono do seu reino, que era em Susã, a capital,"
+        }
+      ]
+    },
+    {
+      "id": "jó",
+      "name": "Jó",
+      "abbr": "Jó",
+      "testament": "Antigo Testamento",
+      "chapters": 42,
+      "totalVerses": 1070,
+      "verses": [
+        {
+          "id": "jó-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Havia um homem na terra de Uz, chamado Jó; e esse homem era perfeito e reto, e temia a Deus, e se desviava do mal."
+        },
+        {
+          "id": "jó-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "E lhe nasceram sete filhos e três filhas."
+        }
+      ]
+    },
+    {
+      "id": "sl",
+      "name": "Salmos",
+      "abbr": "Sl",
+      "testament": "Antigo Testamento",
+      "chapters": 150,
+      "totalVerses": 2461,
+      "verses": [
+        {
+          "id": "sl-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Bem-aventurado o homem que não anda segundo o conselho dos ímpios, nem se detém no caminho dos pecadores, nem se senta na roda dos escarnecedores;"
+        },
+        {
+          "id": "sl-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Mas o seu prazer está na lei do SENHOR, e na sua lei medita de dia e de noite."
+        },
+        {
+          "id": "sl-23-1",
+          "chapter": 23,
+          "verse": 1,
+          "text": "O SENHOR é o meu pastor, nada me faltará."
+        },
+        {
+          "id": "sl-119-105",
+          "chapter": 119,
+          "verse": 105,
+          "text": "Lâmpada para os meus pés é tua palavra, e luz para o meu caminho."
+        }
+      ]
+    },
+    {
+      "id": "pv",
+      "name": "Provérbios",
+      "abbr": "Pv",
+      "testament": "Antigo Testamento",
+      "chapters": 31,
+      "totalVerses": 915,
+      "verses": [
+        {
+          "id": "pv-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Os provérbios de Salomão, filho de Davi, rei de Israel;"
+        },
+        {
+          "id": "pv-3-5",
+          "chapter": 3,
+          "verse": 5,
+          "text": "Confia no SENHOR de todo o teu coração, e não te estribes no teu próprio entendimento."
+        }
+      ]
+    },
+    {
+      "id": "ec",
+      "name": "Eclesiastes",
+      "abbr": "Ec",
+      "testament": "Antigo Testamento",
+      "chapters": 12,
+      "totalVerses": 222,
+      "verses": [
+        {
+          "id": "ec-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palavras do Pregador, filho de Davi, rei em Jerusalém."
+        },
+        {
+          "id": "ec-12-13",
+          "chapter": 12,
+          "verse": 13,
+          "text": "De tudo quanto se ouviu, a conclusão é: Teme a Deus, e guarda os seus mandamentos; porque este é o dever de todo o homem."
+        }
+      ]
+    },
+    {
+      "id": "ct",
+      "name": "Cantares",
+      "abbr": "Ct",
+      "testament": "Antigo Testamento",
+      "chapters": 8,
+      "totalVerses": 117,
+      "verses": [
+        {
+          "id": "ct-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "O Cântico dos Cânticos, que é de Salomão."
+        },
+        {
+          "id": "ct-2-4",
+          "chapter": 2,
+          "verse": 4,
+          "text": "Ele me levou à casa do banquete, e o seu pendão sobre mim é amor."
+        }
+      ]
+    },
+    {
+      "id": "is",
+      "name": "Isaías",
+      "abbr": "Is",
+      "testament": "Antigo Testamento",
+      "chapters": 66,
+      "totalVerses": 1292,
+      "verses": [
+        {
+          "id": "is-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Visão de Isaías, filho de Amós, que teve acerca de Judá e de Jerusalém, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá."
+        },
+        {
+          "id": "is-40-31",
+          "chapter": 40,
+          "verse": 31,
+          "text": "Mas os que esperam no SENHOR renovarão as suas forças; subirão com asas como águias; correrão, e não se cansarão; caminharão, e não se fatigarão."
+        }
+      ]
+    },
+    {
+      "id": "jr",
+      "name": "Jeremias",
+      "abbr": "Jr",
+      "testament": "Antigo Testamento",
+      "chapters": 52,
+      "totalVerses": 1364,
+      "verses": [
+        {
+          "id": "jr-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palavras de Jeremias, filho de Hilquias, um dos sacerdotes que havia em Anatote, na terra de Benjamim;"
+        },
+        {
+          "id": "jr-29-11",
+          "chapter": 29,
+          "verse": 11,
+          "text": "Porque eu bem sei os pensamentos que penso de vós, diz o SENHOR; pensamentos de paz, e não de mal, para vos dar um fim esperado."
+        }
+      ]
+    },
+    {
+      "id": "lm",
+      "name": "Lamentações",
+      "abbr": "Lm",
+      "testament": "Antigo Testamento",
+      "chapters": 5,
+      "totalVerses": 154,
+      "verses": [
+        {
+          "id": "lm-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Como está solitária a cidade que era tão populosa! Como se tornou viúva aquela que era grande entre as nações! A princesa das províncias se tornou tributária."
+        }
+      ]
+    },
+    {
+      "id": "ez",
+      "name": "Ezequiel",
+      "abbr": "Ez",
+      "testament": "Antigo Testamento",
+      "chapters": 48,
+      "totalVerses": 1273,
+      "verses": [
+        {
+          "id": "ez-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Ora, no trigésimo ano, no quarto mês, no quinto dia do mês, estando eu entre os cativos, junto ao rio Quebar, os céus se abriram, e tive visões de Deus."
+        },
+        {
+          "id": "ez-37-1",
+          "chapter": 37,
+          "verse": 1,
+          "text": "A mão do SENHOR foi sobre mim, e o SENHOR me levou em espírito, e me colocou no meio de um vale que estava cheio de ossos."
+        }
+      ]
+    },
+    {
+      "id": "dn",
+      "name": "Daniel",
+      "abbr": "Dn",
+      "testament": "Antigo Testamento",
+      "chapters": 12,
+      "totalVerses": 357,
+      "verses": [
+        {
+          "id": "dn-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "No terceiro ano do reinado de Jeoiaquim, rei de Judá, veio Nabucodonozor, rei de Babilônia, a Jerusalém, e a sitiou."
+        },
+        {
+          "id": "dn-6-26",
+          "chapter": 6,
+          "verse": 26,
+          "text": "Faço um decreto para que em todo o domínio do meu reino haja temor e tremor diante do Deus de Daniel; porque ele é o Deus vivo, e permanece para sempre, e o seu reino não será destruído, e o seu domínio durará até ao fim."
+        }
+      ]
+    },
+    {
+      "id": "os",
+      "name": "Oseias",
+      "abbr": "Os",
+      "testament": "Antigo Testamento",
+      "chapters": 14,
+      "totalVerses": 197,
+      "verses": [
+        {
+          "id": "os-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palavra do SENHOR, que foi a Oseias, filho de Beeri, nos dias de Uzias, Jotão, Acaz e Ezequias, reis de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel."
+        }
+      ]
+    },
+    {
+      "id": "jl",
+      "name": "Joel",
+      "abbr": "Jl",
+      "testament": "Antigo Testamento",
+      "chapters": 3,
+      "totalVerses": 73,
+      "verses": [
+        {
+          "id": "jl-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palavra do SENHOR, que veio a Joel, filho de Petuel."
+        }
+      ]
+    },
+    {
+      "id": "am",
+      "name": "Amós",
+      "abbr": "Am",
+      "testament": "Antigo Testamento",
+      "chapters": 9,
+      "totalVerses": 146,
+      "verses": [
+        {
+          "id": "am-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palavras de Amós, que era um dos pastores de Tecoa, que teve sobre Israel visões nos dias de Uzias, rei de Judá, e nos dias de Jeroboão, filho de Joás, rei de Israel, dois anos antes do terremoto."
+        }
+      ]
+    },
+    {
+      "id": "ob",
+      "name": "Obadias",
+      "abbr": "Ob",
+      "testament": "Antigo Testamento",
+      "chapters": 1,
+      "totalVerses": 21,
+      "verses": [
+        {
+          "id": "ob-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Visão de Obadias. Assim diz o SENHOR Deus acerca de Edom..."
+        }
+      ]
+    },
+    {
+      "id": "jn",
+      "name": "Jonas",
+      "abbr": "Jn",
+      "testament": "Antigo Testamento",
+      "chapters": 4,
+      "totalVerses": 48,
+      "verses": [
+        {
+          "id": "jn-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Veio a palavra do SENHOR a Jonas, filho de Amitai, dizendo:"
+        }
+      ]
+    },
+    {
+      "id": "mq",
+      "name": "Miquéias",
+      "abbr": "Mq",
+      "testament": "Antigo Testamento",
+      "chapters": 7,
+      "totalVerses": 105,
+      "verses": [
+        {
+          "id": "mq-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palavra do SENHOR, que veio a Miquéias de Morasti, nos dias de Jotão, Acaz e Ezequias, reis de Judá; a qual teve ele em visão acerca de Samaria e de Jerusalém."
+        }
+      ]
+    },
+    {
+      "id": "na",
+      "name": "Naum",
+      "abbr": "Na",
+      "testament": "Antigo Testamento",
+      "chapters": 3,
+      "totalVerses": 47,
+      "verses": [
+        {
+          "id": "na-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Profecia acerca de Nínive. Livro da visão de Naum de Elcós."
+        }
+      ]
+    },
+    {
+      "id": "hc",
+      "name": "Habacuc",
+      "abbr": "Hc",
+      "testament": "Antigo Testamento",
+      "chapters": 3,
+      "totalVerses": 56,
+      "verses": [
+        {
+          "id": "hc-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "A profecia que o profeta Habacuc recebeu em visão."
+        }
+      ]
+    },
+    {
+      "id": "sf",
+      "name": "Sofonias",
+      "abbr": "Sf",
+      "testament": "Antigo Testamento",
+      "chapters": 3,
+      "totalVerses": 53,
+      "verses": [
+        {
+          "id": "sf-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Palavra do SENHOR, que veio a Sofonias, filho de Cúxi, filho de Gedalias, filho de Amarias, filho de Ezequias, nos dias de Josias, filho de Amom, rei de Judá."
+        }
+      ]
+    },
+    {
+      "id": "ag",
+      "name": "Ageu",
+      "abbr": "Ag",
+      "testament": "Antigo Testamento",
+      "chapters": 2,
+      "totalVerses": 38,
+      "verses": [
+        {
+          "id": "ag-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "No segundo ano do rei Dario, no sexto mês, no primeiro dia do mês, veio a palavra do SENHOR, por intermédio do profeta Ageu, a Zorobabel, filho de Salatiel, governador de Judá, e a Josué, filho de Jozadaque, o sumo sacerdote, dizendo:"
+        }
+      ]
+    },
+    {
+      "id": "zc",
+      "name": "Zacarias",
+      "abbr": "Zc",
+      "testament": "Antigo Testamento",
+      "chapters": 14,
+      "totalVerses": 211,
+      "verses": [
+        {
+          "id": "zc-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "No oitavo mês, no segundo ano de Dario, veio a palavra do SENHOR ao profeta Zacarias, filho de Berequias, filho de Ido, dizendo:"
+        }
+      ]
+    },
+    {
+      "id": "ml",
+      "name": "Malaquias",
+      "abbr": "Ml",
+      "testament": "Antigo Testamento",
+      "chapters": 4,
+      "totalVerses": 55,
+      "verses": [
+        {
+          "id": "ml-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Profecia da palavra do SENHOR a Israel, por intermédio de Malaquias."
+        },
+        {
+          "id": "ml-4-5",
+          "chapter": 4,
+          "verse": 5,
+          "text": "Eis que vos enviarei o profeta Elias, antes que venha o grande e terrível dia do SENHOR;"
+        }
+      ]
+    },
+    {
+      "id": "mt",
+      "name": "Mateus",
+      "abbr": "Mt",
+      "testament": "Novo Testamento",
+      "chapters": 28,
+      "totalVerses": 1071,
+      "verses": [
+        {
+          "id": "mt-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Livro da genealogia de Jesus Cristo, filho de Davi, filho de Abraão."
+        },
+        {
+          "id": "mt-5-3",
+          "chapter": 5,
+          "verse": 3,
+          "text": "Bem-aventurados os pobres de espírito, porque deles é o reino dos céus."
+        },
+        {
+          "id": "mt-28-19",
+          "chapter": 28,
+          "verse": 19,
+          "text": "Portanto, ide, ensinai todas as nações, batizando-as em nome do Pai, e do Filho, e do Espírito Santo;"
+        }
+      ]
+    },
+    {
+      "id": "mc",
+      "name": "Marcos",
+      "abbr": "Mc",
+      "testament": "Novo Testamento",
+      "chapters": 16,
+      "totalVerses": 678,
+      "verses": [
+        {
+          "id": "mc-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Princípio do evangelho de Jesus Cristo, Filho de Deus;"
+        },
+        {
+          "id": "mc-10-45",
+          "chapter": 10,
+          "verse": 45,
+          "text": "Porque nem mesmo o Filho do homem veio para ser servido, mas para servir, e dar a sua vida em resgate de muitos."
+        }
+      ]
+    },
+    {
+      "id": "lc",
+      "name": "Lucas",
+      "abbr": "Lc",
+      "testament": "Novo Testamento",
+      "chapters": 24,
+      "totalVerses": 1151,
+      "verses": [
+        {
+          "id": "lc-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Visto que muitos já empreenderam uma narração dos fatos que entre nós se cumpriram,"
+        },
+        {
+          "id": "lc-15-11",
+          "chapter": 15,
+          "verse": 11,
+          "text": "Disse ainda: Um certo homem tinha dois filhos;"
+        }
+      ]
+    },
+    {
+      "id": "jo",
+      "name": "João",
+      "abbr": "Jo",
+      "testament": "Novo Testamento",
+      "chapters": 21,
+      "totalVerses": 879,
+      "verses": [
+        {
+          "id": "jo-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "No princípio era o Verbo, e o Verbo estava com Deus, e o Verbo era Deus."
+        },
+        {
+          "id": "jo-3-16",
+          "chapter": 3,
+          "verse": 16,
+          "text": "Porque Deus amou o mundo de tal maneira que deu o seu Filho unigênito, para que todo aquele que nele crê não pereça, mas tenha a vida eterna."
+        },
+        {
+          "id": "jo-11-35",
+          "chapter": 11,
+          "verse": 35,
+          "text": "Jesus chorou."
+        }
+      ]
+    },
+    {
+      "id": "at",
+      "name": "Atos",
+      "abbr": "At",
+      "testament": "Novo Testamento",
+      "chapters": 28,
+      "totalVerses": 1007,
+      "verses": [
+        {
+          "id": "at-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "No meu primeiro livro, ó Teófilo, tratei de tudo quanto Jesus começou, não só a fazer, mas a ensinar,"
+        },
+        {
+          "id": "at-2-38",
+          "chapter": 2,
+          "verse": 38,
+          "text": "Respondeu-lhes Pedro: Arrependei-vos, e cada um de vós seja batizado em nome de Jesus Cristo, para perdão de vossos pecados; e recebereis o dom do Espírito Santo."
+        }
+      ]
+    },
+    {
+      "id": "rm",
+      "name": "Romanos",
+      "abbr": "Rm",
+      "testament": "Novo Testamento",
+      "chapters": 16,
+      "totalVerses": 433,
+      "verses": [
+        {
+          "id": "rm-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, servo de Jesus Cristo, chamado para ser apóstolo, separado para o evangelho de Deus,"
+        },
+        {
+          "id": "rm-3-23",
+          "chapter": 3,
+          "verse": 23,
+          "text": "Pois todos pecaram e carecem da glória de Deus;"
+        },
+        {
+          "id": "rm-8-28",
+          "chapter": 8,
+          "verse": 28,
+          "text": "Sabemos que todas as coisas cooperam para o bem daqueles que amam a Deus, daqueles que são chamados segundo o seu propósito."
+        }
+      ]
+    },
+    {
+      "id": "1co",
+      "name": "1 Coríntios",
+      "abbr": "1Co",
+      "testament": "Novo Testamento",
+      "chapters": 16,
+      "totalVerses": 437,
+      "verses": [
+        {
+          "id": "1co-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, chamado para ser apóstolo de Jesus Cristo pela vontade de Deus, e Sóstenes, nosso irmão,"
+        },
+        {
+          "id": "1co-13-4",
+          "chapter": 13,
+          "verse": 4,
+          "text": "O amor é paciente, o amor é benigno; não é invejoso, não se comporta com leviandade, não se ensoberbece;"
+        }
+      ]
+    },
+    {
+      "id": "2co",
+      "name": "2 Coríntios",
+      "abbr": "2Co",
+      "testament": "Novo Testamento",
+      "chapters": 13,
+      "totalVerses": 257,
+      "verses": [
+        {
+          "id": "2co-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e Timóteo, nosso irmão, à igreja de Deus que está em Corinto, com todos os santos que estão em toda a Acaia:"
+        },
+        {
+          "id": "2co-12-9",
+          "chapter": 12,
+          "verse": 9,
+          "text": "E disse-me: A minha graça te basta, porque o meu poder se aperfeiçoa na fraqueza. De boa vontade, pois, me gloriarei nas minhas fraquezas, para que em mim habite o poder de Cristo."
+        }
+      ]
+    },
+    {
+      "id": "gl",
+      "name": "Gálatas",
+      "abbr": "Gl",
+      "testament": "Novo Testamento",
+      "chapters": 6,
+      "totalVerses": 149,
+      "verses": [
+        {
+          "id": "gl-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, apóstolo, não da parte de homens, nem por homem algum, mas por Jesus Cristo, e por Deus Pai, que o ressuscitou de entre os mortos;"
+        },
+        {
+          "id": "gl-5-22",
+          "chapter": 5,
+          "verse": 22,
+          "text": "Mas o fruto do Espírito é: amor, alegria, paz, longanimidade, benignidade, bondade, fidelidade,"
+        }
+      ]
+    },
+    {
+      "id": "ef",
+      "name": "Efésios",
+      "abbr": "Ef",
+      "testament": "Novo Testamento",
+      "chapters": 6,
+      "totalVerses": 155,
+      "verses": [
+        {
+          "id": "ef-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, apóstolo de Jesus Cristo pela vontade de Deus, aos santos que estão em Éfeso, e fiéis em Jesus Cristo:"
+        },
+        {
+          "id": "ef-6-10",
+          "chapter": 6,
+          "verse": 10,
+          "text": "Finalmente, meus irmãos, robustecei-vos no Senhor e na força do seu poder."
+        }
+      ]
+    },
+    {
+      "id": "fp",
+      "name": "Filipenses",
+      "abbr": "Fp",
+      "testament": "Novo Testamento",
+      "chapters": 4,
+      "totalVerses": 104,
+      "verses": [
+        {
+          "id": "fp-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo e Timóteo, servos de Jesus Cristo, a todos os santos em Cristo Jesus que estão em Filipos, com os bispos e diáconos:"
+        },
+        {
+          "id": "fp-4-6",
+          "chapter": 4,
+          "verse": 6,
+          "text": "Por nada fiqueis ansiosos; em tudo, porém, sejam conhecidas, diante de Deus, as vossas petições, pela oração e súplica com ações de graças."
+        }
+      ]
+    },
+    {
+      "id": "cl",
+      "name": "Colossenses",
+      "abbr": "Cl",
+      "testament": "Novo Testamento",
+      "chapters": 4,
+      "totalVerses": 95,
+      "verses": [
+        {
+          "id": "cl-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, apóstolo de Jesus Cristo pela vontade de Deus, e Timóteo, nosso irmão,"
+        },
+        {
+          "id": "cl-3-16",
+          "chapter": 3,
+          "verse": 16,
+          "text": "A palavra de Cristo habite ricamente em vós, em toda a sabedoria; ensinai-vos e admoestai-vos uns aos outros, com salmos, hinos e cânticos espirituais, cantando com graça em vosso coração ao Senhor."
+        }
+      ]
+    },
+    {
+      "id": "1ts",
+      "name": "1 Tessalonicenses",
+      "abbr": "1Ts",
+      "testament": "Novo Testamento",
+      "chapters": 5,
+      "totalVerses": 89,
+      "verses": [
+        {
+          "id": "1ts-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, Silvano e Timóteo, à igreja dos tessalonicenses, em Deus Pai e no Senhor Jesus Cristo: graça e paz a vós."
+        }
+      ]
+    },
+    {
+      "id": "2ts",
+      "name": "2 Tessalonicenses",
+      "abbr": "2Ts",
+      "testament": "Novo Testamento",
+      "chapters": 3,
+      "totalVerses": 47,
+      "verses": [
+        {
+          "id": "2ts-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, Silvano e Timóteo, à igreja dos tessalonicenses, em Deus nosso Pai e no Senhor Jesus Cristo:"
+        }
+      ]
+    },
+    {
+      "id": "1tm",
+      "name": "1 Timóteo",
+      "abbr": "1Tm",
+      "testament": "Novo Testamento",
+      "chapters": 6,
+      "totalVerses": 113,
+      "verses": [
+        {
+          "id": "1tm-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, apóstolo de Jesus Cristo, por mandado de Deus nosso Salvador, e de Jesus Cristo, nossa esperança,"
+        }
+      ]
+    },
+    {
+      "id": "2tm",
+      "name": "2 Timóteo",
+      "abbr": "2Tm",
+      "testament": "Novo Testamento",
+      "chapters": 4,
+      "totalVerses": 83,
+      "verses": [
+        {
+          "id": "2tm-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, apóstolo de Jesus Cristo, pela vontade de Deus, segundo a promessa da vida que há em Jesus Cristo,"
+        }
+      ]
+    },
+    {
+      "id": "tt",
+      "name": "Tito",
+      "abbr": "Tt",
+      "testament": "Novo Testamento",
+      "chapters": 3,
+      "totalVerses": 46,
+      "verses": [
+        {
+          "id": "tt-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, servo de Deus e apóstolo de Jesus Cristo, para promover a fé dos eleitos de Deus e o conhecimento da verdade que é segundo a piedade,"
+        }
+      ]
+    },
+    {
+      "id": "fm",
+      "name": "Filémon",
+      "abbr": "Fm",
+      "testament": "Novo Testamento",
+      "chapters": 1,
+      "totalVerses": 25,
+      "verses": [
+        {
+          "id": "fm-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Paulo, prisioneiro de Jesus Cristo, e o irmão Timóteo, a Filémon, nosso amado cooperador,"
+        }
+      ]
+    },
+    {
+      "id": "hb",
+      "name": "Hebreus",
+      "abbr": "Hb",
+      "testament": "Novo Testamento",
+      "chapters": 13,
+      "totalVerses": 303,
+      "verses": [
+        {
+          "id": "hb-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Havendo Deus, outrora, falado muitas vezes, e de muitas maneiras, aos pais, pelos profetas,"
+        },
+        {
+          "id": "hb-11-1",
+          "chapter": 11,
+          "verse": 1,
+          "text": "Ora, a fé é a certeza de coisas que se esperam, a convicção de fatos que não se veem."
+        }
+      ]
+    },
+    {
+      "id": "tg",
+      "name": "Tiago",
+      "abbr": "Tg",
+      "testament": "Novo Testamento",
+      "chapters": 5,
+      "totalVerses": 108,
+      "verses": [
+        {
+          "id": "tg-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Tiago, servo de Deus e do Senhor Jesus Cristo, às doze tribos da Dispersão, saudações."
+        },
+        {
+          "id": "tg-1-2",
+          "chapter": 1,
+          "verse": 2,
+          "text": "Meus irmãos, tende por sumo gozo o passardes por várias provações,"
+        }
+      ]
+    },
+    {
+      "id": "1pd",
+      "name": "1 Pedro",
+      "abbr": "1Pd",
+      "testament": "Novo Testamento",
+      "chapters": 5,
+      "totalVerses": 105,
+      "verses": [
+        {
+          "id": "1pd-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Pedro, apóstolo de Jesus Cristo, aos eleitos que estão espalhados pelo Ponto, Galácia, Capadócia, Ásia e Bitínia,"
+        },
+        {
+          "id": "1pd-5-7",
+          "chapter": 5,
+          "verse": 7,
+          "text": "Lançai toda a vossa ansiedade sobre ele, porque ele tem cuidado de vós."
+        }
+      ]
+    },
+    {
+      "id": "2pd",
+      "name": "2 Pedro",
+      "abbr": "2Pd",
+      "testament": "Novo Testamento",
+      "chapters": 3,
+      "totalVerses": 61,
+      "verses": [
+        {
+          "id": "2pd-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Simeão Pedro, servo e apóstolo de Jesus Cristo, aos que conosco receberam fé igualmente preciosa na justiça do nosso Deus e Salvador Jesus Cristo:"
+        }
+      ]
+    },
+    {
+      "id": "1jo",
+      "name": "1 João",
+      "abbr": "1Jo",
+      "testament": "Novo Testamento",
+      "chapters": 5,
+      "totalVerses": 105,
+      "verses": [
+        {
+          "id": "1jo-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "O que era desde o princípio, o que ouvimos, o que vimos com os nossos olhos, o que contemplamos, e o que as nossas mãos tocaram, a respeito do Verbo da vida"
+        },
+        {
+          "id": "1jo-4-7",
+          "chapter": 4,
+          "verse": 7,
+          "text": "Amados, amemo-nos uns aos outros; porque o amor é de Deus; e todo aquele que ama é nascido de Deus, e conhece a Deus."
+        }
+      ]
+    },
+    {
+      "id": "2jo",
+      "name": "2 João",
+      "abbr": "2Jo",
+      "testament": "Novo Testamento",
+      "chapters": 1,
+      "totalVerses": 13,
+      "verses": [
+        {
+          "id": "2jo-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "O ancião à senhora eleita e aos seus filhos, a quem amo na verdade; e não só eu, mas também todos os que conhecem a verdade;"
+        }
+      ]
+    },
+    {
+      "id": "3jo",
+      "name": "3 João",
+      "abbr": "3Jo",
+      "testament": "Novo Testamento",
+      "chapters": 1,
+      "totalVerses": 14,
+      "verses": [
+        {
+          "id": "3jo-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "O ancião a Gaio, o amado, a quem amo na verdade."
+        }
+      ]
+    },
+    {
+      "id": "jd",
+      "name": "Judas",
+      "abbr": "Jd",
+      "testament": "Novo Testamento",
+      "chapters": 1,
+      "totalVerses": 25,
+      "verses": [
+        {
+          "id": "jd-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Judas, servo de Jesus Cristo, e irmão de Tiago, aos chamados, santificados em Deus Pai, e guardados em Jesus Cristo:"
+        }
+      ]
+    },
+    {
+      "id": "ap",
+      "name": "Apocalipse",
+      "abbr": "Ap",
+      "testament": "Novo Testamento",
+      "chapters": 22,
+      "totalVerses": 404,
+      "verses": [
+        {
+          "id": "ap-1-1",
+          "chapter": 1,
+          "verse": 1,
+          "text": "Revelação de Jesus Cristo, que Deus lhe deu, para mostrar aos seus servos as coisas que brevemente devem acontecer; e, enviando por intermédio do seu anjo, as notificou a João,"
+        },
+        {
+          "id": "ap-22-20",
+          "chapter": 22,
+          "verse": 20,
+          "text": "Aquele que testifica estas coisas diz: Certamente venho sem demora. Amém. Vem, Senhor Jesus."
+        }
+      ]
+    }
+  ]
+}

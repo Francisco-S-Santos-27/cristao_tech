@@ -3,6 +3,7 @@ import { Menu, X, Moon, Sun } from "lucide-react";
 import { useState, useEffect } from "react";
 import logo from "@/assets/logo.png";
 import { Button } from "@/components/ui/button";
+import SearchBar from "@/components/SearchBar";
 
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -47,19 +48,26 @@ const Header = () => {
           </NavLink>
 
           {/* Desktop Navigation */}
-          <nav className="hidden md:flex items-center gap-6">
+          <nav className="hidden md:flex items-center gap-8">
             {navItems.map((item) => (
               <NavLink
                 key={item.path}
                 to={item.path}
                 end={item.path === "/"}
-                className="relative text-sm font-medium text-foreground/70 transition-colors hover:text-primary after:content-[''] after:absolute after:bottom-[-8px] after:left-0 after:w-0 after:h-0.5 after:bg-primary after:transition-all after:duration-300"
-                activeClassName="text-primary font-semibold after:w-full"
+                className="relative text-sm font-medium text-foreground/70 transition-colors hover:text-primary group"
+                activeClassName="text-primary font-semibold"
+                aria-current="page"
               >
-                {item.name}
+                <span className="relative">
+                  {item.name}
+                  <span className="absolute inset-x-0 bottom-0 h-0.5 bg-gradient-to-r from-primary to-primary rounded-full scale-x-0 group-hover:scale-x-100 transition-transform duration-300 origin-left" />
+                </span>
               </NavLink>
             ))}
           </nav>
+
+          {/* Search Bar */}
+          <SearchBar />
 
           {/* Theme Toggle & Mobile Menu */}
           <div className="flex items-center gap-2">
@@ -85,16 +93,20 @@ const Header = () => {
 
         {/* Mobile Navigation */}
         {isMenuOpen && (
-          <nav className="md:hidden pb-4 animate-fade-in">
-            <div className="flex flex-col gap-2">
+          <nav
+            className="md:hidden pb-4 animate-in fade-in slide-in-from-top-2 duration-200"
+            role="navigation"
+          >
+            <div className="flex flex-col gap-1">
               {navItems.map((item) => (
                 <NavLink
                   key={item.path}
                   to={item.path}
                   end={item.path === "/"}
-                  className="px-4 py-2 text-sm font-medium text-foreground/70 rounded-md transition-colors hover:bg-muted hover:text-primary border-l-2 border-transparent"
-                  activeClassName="bg-primary/10 text-primary font-semibold border-l-2 border-primary"
+                  className="px-4 py-3 text-sm font-medium text-foreground/70 rounded-lg transition-all hover:bg-muted hover:text-primary border-l-4 border-transparent"
+                  activeClassName="bg-primary/10 text-primary font-semibold border-l-4 border-primary"
                   onClick={() => setIsMenuOpen(false)}
+                  aria-current="page"
                 >
                   {item.name}
                 </NavLink>
